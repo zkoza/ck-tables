@@ -9,7 +9,7 @@ Repozytorium składa się z nastepujących katalogów:
   - `skład`: skład CK od 2011 do 2020 (trzy kolejne kadencje)
   - `sprawozdania`: oryginalne sprawozdania CK za lata 2008 i 2011-2019 
 - `gender`: dane dotyczące płci uczestników postępowań awansowych, osobno dla postepowań habilitacyjnych i profesorskich 
-- `highly-cited`: dane dotyczące udziału najczęściej cytowanych polskich naukowców w postępowaniach awansowych (por.: Ioannidis i in., PLOS Biology, 17(8), 1–6)
+- `highly-cited`: dane dotyczące udziału najczęściej cytowanych polskich naukowców w postępowaniach awansowych (por.: Ioannidis i in., PLOS Biology, 17(8), 1–6, 2019)
 - `uczestnictwa`: tabele imienne uczestnictw poszczególnych naukowców w postępowaniach awansowych, w rozbiciu na funkcje (przewodniczący, sekretarz, recenzent, członek KH; recenzent w postepowaniu profesorskim). 
 - `dane_ogólne`: pozostałe dane
   -  `kto_w_jakich_dyscyplinach_KH.csv`: przypisanie każdej parze (imie, nazwisko)  dyscyplin, w ramach których taka para pojawia się na decyzjach o powołaniu komisji habilitacyjnych, w raz z liczbą takich powołań. 
