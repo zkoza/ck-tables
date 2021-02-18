@@ -9,7 +9,7 @@ Repozytorium składa się z nastepujących katalogów:
   - `skład`: skład CK od 2011 do 2020 (trzy kolejne kadencje)
   - `sprawozdania`: sprawozdania CK za lata 2008 i 2011-2019 
 - `gender`: dane dotyczące płci uczestników postępowań awansowych   
-- `highly-cited`: dane dotyczące udziału najczęściej cytowanych polskich naukowców 
+- `highly-cited`: dane dotyczące udziału najczęściej cytowanych polskich naukowców w postępowaniach awansowych
 - `uczestnictwa`: tabele imienne uczestnictw poszczególnych naukowców w postępowaniach awansowych, w rozbiciu na funkcje
 - `dane_ogólne`: pozostałe dane
 
