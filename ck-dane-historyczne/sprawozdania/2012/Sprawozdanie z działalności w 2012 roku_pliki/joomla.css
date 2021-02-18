@@ -1,0 +1,187 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, font, img, ins, kbd, q, s, samp, small, strike, sub, sup, tt, var, center, dl, dt, dd, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+background: none repeat scroll 0 0 transparent;
+border: 0 none;
+font-family: inherit;
+font-size: 100%;
+font-style: inherit;
+font-weight: inherit;
+margin: 0;
+outline: 0 none;
+padding: 0;
+}
+
+body{
+
+font:100%/1.2 Arial,sans-serif;
+}
+
+a {
+color: #CC6600;
+text-decoration: none;
+}
+
+
+/*
+h1, h2, h3, h4, h5, h6 {
+color: #444444;
+font-family: "PT Serif",Georgia,"Times New Roman",Times,serif;
+font-weight: normal;
+line-height: 1.4em;
+} */
+
+h3 {
+font-size: 110%;
+text-shadow: 0 1px 0 #E8E8E8;
+}
+
+h2, h3, h4, .componentheading {
+    font-family: 'Rokkitt',serif;
+    margin: 1em 0;
+}
+
+h2 {
+    font-size: 130%;
+}
+
+.blog-featured .items-leading h2, .blog .items-leading h2 {
+margin-bottom: 2px;
+position: relative;
+}
+
+.item-page h2 {
+    line-height: 1.35em;
+}
+
+p {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+item {
+display: block;
+padding: 0 5px 10px;
+}
+
+.column-1, .column-2, .column-3 {
+padding: 0 5px;
+}
+
+#col1 .component ul li {
+list-style: circle outside none;
+}
+
+#col1 ul ul li, #col1 ul li {
+list-style-type: none;
+}
+
+#colmask ul li {
+list-style: circle outside none;
+}
+
+ol {
+list-style-type: decimal;
+}
+
+ul, ol {
+margin: 0 2em 1.5em 0;
+padding-left: 2.5em;
+}
+
+ol, ul {
+list-style: none outside none;
+}
+
+ul.pagenav, div.pagination {
+display: block;
+font-size: 90%;
+margin: 10px 0;
+padding: 10px 0;
+text-align: center;
+width: 100%;
+}
+
+table.weblinks, table.category {
+font-size: 1em;
+margin: 10px 10px 15px 0;
+text-align: left;
+width: 99%;
+}
+
+table {
+border-collapse: collapse;
+border-spacing: 0;
+}
+
+
+
+table.category th, table.category th a {
+color: #FFFFFF;
+}
+
+table.weblinks th, table.category th {
+padding: 7px;
+text-align: left;
+}
+
+table.weblinks th, table.newsfeeds th, table.category th, table.jlist-table th {
+background: none repeat scroll 0 0 #888888;
+}
+
+table.category th, table.category th a {
+color: #FFFFFF;
+padding:2px;
+}
+
+table.category td {
+border-bottom: 1px solid #888888;
+padding: 2px;
+}
+
+.createdby {
+font-weight: bold;
+}
+
+.modifydate, .createdby, .createdate {
+display: block;
+}
+
+/******* SEARCH*****/
+div.search {
+    padding-top: 24px;
+}
+
+div.search .inputbox {
+margin-right: 0;
+padding: 5px;
+}
+
+div.component input, select, textarea {
+background: -moz-linear-gradient(center top , #F1F1F1, #FFFFFF) repeat scroll 0 0 transparent;
+border: 1px solid #CCCCCC;
+box-shadow: 1px 1px 0 #EFEFEF;
+margin-bottom: 15px;
+padding: 5px;
+}
+
+.inputbox, #userreminder .required {
+background: -moz-linear-gradient(center top , #F1F1F1, #FFFFFF) repeat scroll 0 0 transparent;
+border: 1px solid #CCCCCC;
+box-shadow: 1px 1px 0 #EFEFEF;
+}
+
+.inputbox {
+margin-right: 5px;
+padding: 3px;
+}
+
+.search legend {
+font-weight: bold;
+}
+
+legend {
+font-weight: bold;
+padding-bottom: 10px;
+padding-top: 10px;
+}
+
+.items-more{}

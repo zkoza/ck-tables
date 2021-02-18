@@ -1,0 +1,101 @@
+
+@font-face {
+    font-family: 'OpenSansRegular';
+    src: url('opensans/opensans-regular-webfont.eot');
+    src: url('opensans/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('opensans/opensans-regular-webfont.woff') format('woff'),
+         url('opensans/opensans-regular-webfont.ttf') format('truetype'),
+         url('opensans/opensans-regular-webfont.svg#OpenSansRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.panel_cookie p,
+.panel_cookie h4,
+.panel_cookie input{
+    font-family: 'OpenSansRegular';
+	text-align:left;	
+}
+
+.panel_cookie{
+  width:100%;
+  position:fixed;
+  left:0;
+  height: 53px!important;
+  line-height:53px;
+  z-index:100002;
+  background:#28292a;
+  background: rgba(0,0,0,.8);
+ -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, .8);
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, .8);
+  padding:0;
+}
+#panel_cookie_dol{
+  bottom:0;
+}
+#panel_cookie{
+  top:0;
+}
+
+div.tresc{
+  float:left;
+  margin:0 0 0 10%;
+  max-width: 75%;
+  width: 75%;
+}
+
+
+.panel_cookie input,
+body .panel_cookie input{
+  border:none;
+  color:#fff;
+  font-size:30px;
+  height: 53px!important;
+  width: 53px!important;
+  line-height:53px;
+  background: url("close-st1.png") no-repeat 50% #060606;
+  display:block;
+  float:right;
+  padding:0;
+  margin:0;
+  cursor:pointer;
+  text-indent:-999em;
+}
+
+.panel_cookie input:hover,
+.panel_cookie input:focus,
+.panel_cookie input:active{
+  background-color:#f07241;
+}
+
+.panel_cookie h4,
+.panel_cookie p{
+  color: #fff;
+  text-shadow: -1px 0 0 rgba(0, 0, 0, .3);
+}
+
+.panel_cookie h4{
+  font-weight:100;
+  font-size:14px;
+  text-transform:uppercase;
+  margin:0;
+  display:none
+}
+.panel_cookie p{
+  font-size:14px;
+  line-height:53px;
+  margin:2px 0 0;
+}
+
+.panel_cookie p a{
+  color:#f07241;
+  text-decoration:underline;
+  background:none;
+}
+
+.panel_cookie a:hover, 
+.panel_cookie a:active, 
+.panel_cookie a:focus{
+  text-decoration:none;
+  background:none;
+}
