@@ -44,7 +44,7 @@ Podczas przetwarzania dokumentów uwzględniono wyłącznie pierwotne decyzje o 
 
 Sprawozdania CK zostały pobrane ze stron tej nieistniejącej już instytucji. CK przez dziesięciolecia stanowiła fundament systemu awansów akademickich w Polsce, niech chociaż tyle z niej zostanie na nieco dłużej w naszej pamięci. 
 
-Płeć każdej osoby ustalano na podstawie jej imienia. W bardzo nielicznych przypadkach metoda ta zawodzi i wówczas płeć ma wartość "nieznana". 
+Każdej parze (`imię`, `nazwisko`) przypisano płeć na podstawie wartości pola `imię`. W bardzo nielicznych przypadkach metoda ta zawodzi i wówczas płeć ma przypisaną wartość `nieznana`. 
 
 
 
