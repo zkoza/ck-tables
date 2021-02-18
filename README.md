@@ -30,7 +30,7 @@ Pozostałe pliki to pliki tekstowe lub pobrane z Internetu pliki typu PDF lub HT
 # Uwagi
 Tabele zawierają dane zgodne z publicznie dostępnymi dokumentami Centralnej Komisji ds Stopni i Tytułów zgromadzonymi na stronie https://www.ck.gov.pl/. Dane zostały uzyskane poprzez automatyczną konwersję skanów decyzji CK z plików w formacie PDF (rastrowym) na pliki tekstowe. Oznacza to, że mogą zawierać błędy w pisowni nazwisk, w przypisaniu do dyscyplin itp. Ponadto tam, gdzie wystepują imiona i nazwiska, nie istnieje powiązanie tych danych z konkretnymi osobami: w danych nie odróżnia się różnych osób mających te same nazwiska, nie ma w nich też informacji o ewentualnych zmianach nazwisk, a zarówno imiona, jak i nazwiska mogły zostac zniekształcone zarówno przez obsługę CK, jak nasze oprogramowanie. W tym sensie udostępniane tu dane dotyczą ciągów liter (napisów) a nie konkretnych osób. Jakakolwiek próba kojarzenia ich z konkretnymi osobami wymaga weryfikacji w materiałach źródłowych. 
 
-Autorzy dołożyli wszelkich starań, by dane, a zwłaszcza te związane z danymi osobowymi, były jak nabliższe stanowi faktycznemu, jednak ze względu na sposób ich pozyskania, nie dają gwarancji ich stuprocentowej dokładności. Wszelkie odstępstwa od stanu faktycznego są niezamierzone.
+Autorzy dołożyli wszelkich starań, by dane, a zwłaszcza te choćby pośrednio związane z danymi osobowymi, były jak nabliższe stanowi faktycznemu, jednak ze względu na sposób ich pozyskania, nie dają gwarancji ich stuprocentowej dokładności. Wszelkie odstępstwa od stanu faktycznego są niezamierzone.
 
 Oznaczenia niektórych kolumn, np. "K50", objaśnione są w oryginalnym artylule. 
 
