@@ -36,6 +36,8 @@ Oznaczenia niektórych kolumn, np. "K50", objaśnione są w oryginalnym artylule
 
 W części kolumn wystepują wyłącznie liczby 0 lub 1. W tych przypadkach 0 oznacza "nie", 1 - "tak".
 
+Liczba 0 w kolumnie zawierającej numer sekcji CK oznacza, że dana osoba nie była członkiem CK w analizowanym tu oresie. 
+
 Dane dotyczące składu CK 3 kolejnych kadencji są niepełne w tym sensie, że składy te ewluowały w czasie (np. wskutek śmierci członików). Tabela zawiera "migawki" tych składów w wybranych chwilach czasu (dla których znaleźliśmy wiarygodne dane).  
 
 Sprawozdania CK zostały pobrane ze stron tej nieistniejącej już instytucji. CK przez dziesięciolecia stanowiła fundament systemu awansów akademickich w Polsce, niech chociaż tyle z niej zostanie na nieco dłużej w naszej pamięci. 
