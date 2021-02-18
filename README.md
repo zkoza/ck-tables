@@ -7,11 +7,13 @@
 Repozytorium składa się z nastepujących katalogów:
 - `ck-dane-historyczne`
   - `skład`: skład CK od 2011 do 2020 (trzy kolejne kadencje)
-  - `sprawozdania`: sprawozdania CK za lata 2008 i 2011-2019 
-- `gender`: dane dotyczące płci uczestników postępowań awansowych   
-- `highly-cited`: dane dotyczące udziału najczęściej cytowanych polskich naukowców w postępowaniach awansowych
-- `uczestnictwa`: tabele imienne uczestnictw poszczególnych naukowców w postępowaniach awansowych, w rozbiciu na funkcje
+  - `sprawozdania`: oryginalne sprawozdania CK za lata 2008 i 2011-2019 
+- `gender`: dane dotyczące płci uczestników postępowań awansowych, osobno dla postepowań habilitacyjnych i profesorskich 
+- `highly-cited`: dane dotyczące udziału najczęściej cytowanych polskich naukowców w postępowaniach awansowych (por.: Ioannidis i in., PLOS Biology, 17(8), 1–6)
+- `uczestnictwa`: tabele imienne uczestnictw poszczególnych naukowców w postępowaniach awansowych, w rozbiciu na funkcje (przewodniczący, sekretarz, recenzent, członek KH; recenzent w postepowaniu profesorskim). 
 - `dane_ogólne`: pozostałe dane
+  -  `kto_w_jakich_dyscyplinach_KH.csv`: przypisanie każdej parze (imie, nazwisko)  dyscyplin, w ramach których taka para pojawia się na decyzjach o powołaniu komisji habilitacyjnych, w raz z liczbą takich powołań. 
+  -  `postępowania_z_przewagą_CK.csv` - wykaz postepowań, w których w decyzjach CK o powołaniu komisji habiliacyjnych zidentyfikowano przypadki co najmniej 4 pary (imię, nazwisko) zgodne z imionami i nazwiskami członków CK kadencji, w której wydano decyzję. 
 
 # Format danych
 ## Pliki CSV
@@ -32,8 +34,15 @@ Autorzy dołożyli wszelkich starań, by dane, a zwłaszcza te związane z danym
 
 Oznaczenia niektórych kolumn, np. "K50", objaśnione są w oryginalnym artylule. 
 
-W części kolumn wystepują wyłącznie liczby 0 lub 1. W tych przypadkach 0 oznacza "tak", 1 - "nie".
+W części kolumn wystepują wyłącznie liczby 0 lub 1. W tych przypadkach 0 oznacza "nie", 1 - "tak".
 
 Dane dotyczące składu CK 3 kolejnych kadencji są niepełne w tym sensie, że składy te ewluowały w czasie (np. wskutek śmierci członików). Tabela zawiera "migawki" tych składów w wybranych chwilach czasu (dla których znaleźliśmy wiarygodne dane).  
 
 Sprawozdania CK zostały pobrane ze stron tej nieistniejącej już instytucji. CK przez dziesięciolecia stanowiła fundament systemu awansów akademickich w Polsce, niech chociaż tyle z niej zostanie na nieco dłużej w naszej pamięci. 
+
+Płeć każdej osoby ustalano na podstawie jej imienia. W bardzo nielicznych przypadkach metoda ta zawodzi i wówczas płeć ma wartość "nieznana". 
+
+
+
+
+
