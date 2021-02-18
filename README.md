@@ -42,11 +42,6 @@ Dane dotyczące składu CK trzech kolejnych kadencji są niepełne w tym sensie,
 
 Podczas przetwarzania dokumentów uwzględniono wyłącznie pierwotne decyzje o składach komisji habilitacyjnych i zeposłów recenzentów postępowań profesorskich. Nie uwzględniono ewentualnych późniejszych zmian w tych składach. 
 
-Sprawozdania CK zostały pobrane ze stron tej nieistniejącej już instytucji. CK przez dziesięciolecia stanowiła fundament systemu awansów akademickich w Polsce, niech chociaż tyle z niej zostanie na nieco dłużej w naszej pamięci. 
-
 Każdej parze (`imię`, `nazwisko`) przypisano płeć na podstawie wartości pola `imię`. W bardzo nielicznych przypadkach metoda ta zawodzi i wówczas płeć ma przypisaną wartość `nieznana`. 
 
-
-
-
-
+Sprawozdania CK zostały pobrane ze stron tej nieistniejącej już instytucji. CK przez dziesięciolecia stanowiła fundament systemu awansów akademickich w Polsce, niech chociaż tyle z niej zostanie na nieco dłużej w naszej pamięci. 
