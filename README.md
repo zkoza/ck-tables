@@ -6,7 +6,7 @@
 # Zawartość
 Repozytorium składa się z nastepujących katalogów:
 - `ck-dane-historyczne`
-  - `skład`: skład CK od 2011 do 2020
+  - `skład`: skład CK od 2011 do 2020 (trzy kolejne kadencje)
   - `sprawozdania`: sprawozdania CK za lata 2008 i 2011-2019 
 - `gender`: dane dotyczące płci uczestników postępowań awansowych   
 - `highly-cited`: dane dotyczące udziału najczęściej cytowanych polskich naukowców 
