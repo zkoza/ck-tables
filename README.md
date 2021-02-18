@@ -40,6 +40,8 @@ Liczba 0 w kolumnie zawierającej numer sekcji CK oznacza, że dana osoba nie by
 
 Dane dotyczące składu CK trzech kolejnych kadencji są niepełne w tym sensie, że składy te ewluowały w czasie (np. wskutek śmierci członików). Tabela zawiera "migawki" tych składów w wybranych chwilach czasu (dla których znaleźliśmy wiarygodne dane).  
 
+Podczas przetwarzania dokumentów uwzględniono wyłącznie pierwotne decyzje o składach komisji habilitacyjnych i zeposłów recenzentów postępowań profesorskich. Nie uwzględniono ewentualnych późniejszych zmian w tych składach. 
+
 Sprawozdania CK zostały pobrane ze stron tej nieistniejącej już instytucji. CK przez dziesięciolecia stanowiła fundament systemu awansów akademickich w Polsce, niech chociaż tyle z niej zostanie na nieco dłużej w naszej pamięci. 
 
 Płeć każdej osoby ustalano na podstawie jej imienia. W bardzo nielicznych przypadkach metoda ta zawodzi i wówczas płeć ma wartość "nieznana". 
