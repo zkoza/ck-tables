@@ -14,9 +14,19 @@ Repozytorium składa się z nastepujących katalogów:
 - `dane_ogólne`: pozostałe dane
 
 # Format danych
+## Pliki CSV
 Tabele zapisano w formacie CSV, czyli w plikach, które można odczytywać zarówno jako zwykły tekst, jak i jako arkusze kalkulacyjne w prgramach typu LibreOffice czy Excel. 
+
 -  Kodowanie znaków: UTF-8
 -  Sparator części ułamkowej: kropka 
 -  Separator kolumn: tabulator
+
+## Pozostałe pliki 
 Pozostałe pliki to pliki tekstowe lub pobrane ze Internetu pliki typu PDF lub HTML.  
+
+
+# Uwagi
+Tabele zawierają dane zgodne z publicznie dostępnymi dokumentami Centralnej Komisji ds Stopni i Tytułów zgromadzonymi na stronie https://www.ck.gov.pl/. Dane zostały przetworzone w wyniku automatycznej konwersji skanów decyzji CK z plików w formacie PDF (rastrowym) na pliki tekstowe. Oznacza to, że mogą zawierać błędy w pisowni nazwisk, przypisaniu do dyscyplin etc. Ponadto tam, gdzie wystepują imiona i nazwiska, nie istnieje powiązanie tych danych z konkretnymi osobami: w danych nie odróżnia się rożnych osób mających te same nazwiska, nie ma w nich też informacji o ewentualnych zmianach nazwisk. W tym sensie dane dotyczą ciągów liter (napisów) a nie konkretnych osób. Jakakolwiek próba kojarzenia ich z konkretnymi osobami wymaga weryfikacji w materiałach źródłowych. 
+
+Autorzy dołożyli wszelkich starań, by dane, a zwłaszcza te związane z danymi osobowymi, były jak nabliższe stanu faktycznego, jednak ze względu na sposób ich pozyskania, nie dają gwarancji ich stuprocentowej dokładności. Wszelkie odstępstwa od stanu faktycznego są niezamierzone.
 
