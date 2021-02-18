@@ -30,3 +30,10 @@ Tabele zawierają dane zgodne z publicznie dostępnymi dokumentami Centralnej Ko
 
 Autorzy dołożyli wszelkich starań, by dane, a zwłaszcza te związane z danymi osobowymi, były jak nabliższe stanu faktycznego, jednak ze względu na sposób ich pozyskania, nie dają gwarancji ich stuprocentowej dokładności. Wszelkie odstępstwa od stanu faktycznego są niezamierzone.
 
+Oznaczenia niektórych kolumn, np. "K50", objaśnione są w oryginalnym artylule. 
+
+W części kolumn wystepują wyłącznie liczby 0 lub 1. W tych przypadkach 0 oznacza "tak", 1 - "nie".
+
+Dane dotyczące składu CK 3 kolejnych kadencji są niepełne w tym sensie, że składy te ewluowały w czasie (np. wskutek śmierci członików). Tabela zawiera "migawki" tych składów w wybranych chwilach czasu (dla których znaleźliśmy wiarygodne dane).  
+
+Sprawozdania CK zostały pobrane ze stron tej nieistniejącej już instytucji. CK przez dziesięciolecia stanowiła fundament systemu awansów akademickich w Polsce, niech chociaż tyle z niej zostanie na nieco dłużej w naszej pamięci. 
