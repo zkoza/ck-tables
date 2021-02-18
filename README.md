@@ -38,7 +38,7 @@ W części kolumn wystepują wyłącznie liczby 0 lub 1. W tych przypadkach 0 oz
 
 Liczba 0 w kolumnie zawierającej numer sekcji CK oznacza, że dana osoba nie była członkiem CK w analizowanym tu okresie. 
 
-Dane dotyczące składu CK trzech kolejnych kadencji są niepełne w tym sensie, że składy te ewoluowały w czasie (np. wskutek śmierci członików). Tabela zawiera "migawki" tych składów w wybranych chwilach czasu (dla których znaleźliśmy wiarygodne dane).  
+Dane dotyczące składu CK trzech kolejnych kadencji są niepełne w tym sensie, że składy te ewoluowały w czasie (np. wskutek ciężkiej choroby lub śmierci członków). Tabela zawiera "migawki" tych składów w wybranych chwilach czasu (dla których znaleźliśmy wiarygodne dane).  
 
 Podczas przetwarzania dokumentów uwzględniono wyłącznie pierwotne decyzje o składach komisji habilitacyjnych i zeposłów recenzentów postępowań profesorskich. Nie uwzględniono ewentualnych późniejszych zmian w tych składach. 
 
