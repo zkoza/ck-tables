@@ -1,93 +1,93 @@
-Dziedzina	Liczba wniosków	Kandydatki	Kandydaci	Kandydaci płeć nieznana	Kob. w KH	Mężcz. w KH	KH -  płeć  nieznana 
-agronomia	145	84	60	1	382	632	1
-archeologia	86	26	60	0	117	485	0
-architektura i urbanistyka	124	58	66	0	365	503	0
-astronomia	35	7	28	0	28	214	3
-automatyka i robotyka	65	9	56	0	23	432	0
-bibliologia i informatologia	43	32	11	0	214	87	0
-biochemia	50	35	15	0	192	158	0
-biocybernetyka i inżynieria biomedyczna	51	13	37	1	65	286	6
-biofizyka	33	17	16	0	77	154	0
-biologia	478	304	170	4	1544	1799	3
-biologia medyczna	355	245	110	0	1052	1433	0
-biotechnologia	72	45	26	1	240	264	0
-budowa i eksploatacja maszyn	290	33	254	3	99	1931	0
-budownictwo	130	36	93	1	142	768	0
-chemia	453	245	206	2	977	2191	3
-drzewnictwo	23	7	16	0	28	133	0
-dyrygentura	54	16	37	1	90	288	0
-ekologia	41	20	21	0	112	175	0
-ekonomia	486	241	244	1	1120	2282	0
-elektronika	116	11	104	1	81	731	0
-elektrotechnika	106	4	102	0	40	701	1
-energetyka	26	4	22	0	11	171	0
-etnologia	44	35	9	0	144	164	0
-farmacja	30	18	12	0	74	136	0
-filozofia	200	55	145	0	364	1034	2
-finanse	158	80	78	0	438	668	0
-fizyka	478	117	357	4	396	2947	3
-geodezja i kartografia	83	22	61	0	121	460	0
-geofizyka	21	6	15	0	28	119	0
-geografia	160	67	92	1	266	854	0
-geologia	79	36	43	0	154	399	0
-górnictwo i geologia inżynierska	73	25	48	0	54	457	0
-historia	331	108	222	1	353	1962	2
-historia sztuki	38	16	22	0	70	196	0
-informatyka	226	31	193	2	123	1459	0
-instrumentalistyka	188	67	119	2	449	866	1
-inżynieria chemiczna	53	17	36	0	83	288	0
-inżynieria materiałowa	173	69	103	1	273	936	2
-inżynieria produkcji	11	8	3	0	14	63	0
-inżynieria rolnicza	51	12	39	0	45	312	0
-inżynieria środowiska	198	100	97	1	444	942	0
-językoznawstwo	431	305	125	1	1778	1236	3
-kompozycja i teoria muzyki	61	34	27	0	218	209	0
-konserwacja i restauracja dzieł sztuki	12	7	5	0	40	44	0
-kulturoznawstwo	121	71	50	0	358	489	0
-leśnictwo	44	8	36	0	64	244	0
-literaturoznawstwo	514	324	186	4	1788	1803	7
-matematyka	162	48	114	0	85	1040	9
-mechanika	123	24	98	1	60	801	0
-medycyna	1030	425	601	4	2239	4971	0
-metalurgia	42	12	30	0	37	257	0
-mikrobiologia	16	14	2	0	70	42	0
-nauki farmaceutyczne	193	134	59	0	688	663	0
-nauki o Ziemi i środowisku	4	3	1	0	10	18	0
-nauki o administracji	5	3	2	0	9	26	0
-nauki o bezpieczeństwie	100	19	81	0	65	635	0
-nauki o kulturze fizycznej	125	54	71	0	250	625	0
-nauki o mediach	57	34	23	0	155	244	0
-nauki o obronności	25	2	23	0	5	170	0
-nauki o polityce	334	134	198	2	558	1780	0
-nauki o poznaniu i komunikacji społecznej	8	3	5	0	4	52	0
-nauki o sztuce	39	27	12	0	119	154	0
-nauki o zdrowiu	183	121	62	0	555	726	0
-oceanologia	25	14	11	0	65	110	0
-ochrona i kształtowanie środowiska	101	51	49	1	172	535	0
-ochrona środowiska	6	4	2	0	18	24	0
-ogrodnictwo	64	43	21	0	265	183	0
-pedagogika	277	186	91	0	1052	887	0
-prawo	588	240	347	1	1130	2986	0
-prawo kanoniczne	15	1	14	0	7	98	0
-psychologia	130	77	53	0	428	482	0
-religioznawstwo	5	2	3	0	11	24	0
-reżyseria dźwięku	9	5	4	0	17	46	0
-rybactwo	15	9	6	0	51	54	0
-rytmika i taniec	7	4	3	0	38	11	0
-socjologia	194	103	90	1	597	761	0
-stomatologia	57	39	18	0	234	165	0
-sztuki filmowe	23	9	14	0	29	132	0
-sztuki piękne	289	128	161	0	378	1645	0
-sztuki projektowe	92	46	46	0	234	410	0
-sztuki teatralne	27	6	21	0	77	112	0
-technologia chemiczna	145	70	72	3	297	718	0
-technologia żywności i żywienia	174	123	51	0	696	522	0
-telekomunikacja	43	1	41	1	9	291	1
-teologia	122	17	105	0	33	821	0
-towaroznawstwo	43	31	12	0	130	171	0
-transport	80	22	58	0	72	488	0
-weterynaria	123	65	58	0	183	678	0
-wokalistyka	48	26	22	0	150	186	0
-włókiennictwo	30	17	13	0	52	158	0
-zarządzanie	422	215	207	0	1020	1934	0
-zootechnika	94	51	43	0	251	406	1
+Dziedzina,Liczba wniosków,Kandydatki,Kandydaci,Kandydaci płeć nieznana,Kob. w KH,Mężcz. w KH,KH -  płeć  nieznana 
+agronomia,145,84,60,1,382,632,1
+archeologia,86,26,60,0,117,485,0
+architektura i urbanistyka,124,58,66,0,365,503,0
+astronomia,35,7,28,0,28,214,3
+automatyka i robotyka,65,9,56,0,23,432,0
+bibliologia i informatologia,43,32,11,0,214,87,0
+biochemia,50,35,15,0,192,158,0
+biocybernetyka i inżynieria biomedyczna,51,13,37,1,65,286,6
+biofizyka,33,17,16,0,77,154,0
+biologia,478,304,170,4,1544,1799,3
+biologia medyczna,355,245,110,0,1052,1433,0
+biotechnologia,72,45,26,1,240,264,0
+budowa i eksploatacja maszyn,290,33,254,3,99,1931,0
+budownictwo,130,36,93,1,142,768,0
+chemia,453,245,206,2,977,2191,3
+drzewnictwo,23,7,16,0,28,133,0
+dyrygentura,54,16,37,1,90,288,0
+ekologia,41,20,21,0,112,175,0
+ekonomia,486,241,244,1,1120,2282,0
+elektronika,116,11,104,1,81,731,0
+elektrotechnika,106,4,102,0,40,701,1
+energetyka,26,4,22,0,11,171,0
+etnologia,44,35,9,0,144,164,0
+farmacja,30,18,12,0,74,136,0
+filozofia,200,55,145,0,364,1034,2
+finanse,158,80,78,0,438,668,0
+fizyka,478,117,357,4,396,2947,3
+geodezja i kartografia,83,22,61,0,121,460,0
+geofizyka,21,6,15,0,28,119,0
+geografia,160,67,92,1,266,854,0
+geologia,79,36,43,0,154,399,0
+górnictwo i geologia inżynierska,73,25,48,0,54,457,0
+historia,331,108,222,1,353,1962,2
+historia sztuki,38,16,22,0,70,196,0
+informatyka,226,31,193,2,123,1459,0
+instrumentalistyka,188,67,119,2,449,866,1
+inżynieria chemiczna,53,17,36,0,83,288,0
+inżynieria materiałowa,173,69,103,1,273,936,2
+inżynieria produkcji,11,8,3,0,14,63,0
+inżynieria rolnicza,51,12,39,0,45,312,0
+inżynieria środowiska,198,100,97,1,444,942,0
+językoznawstwo,431,305,125,1,1778,1236,3
+kompozycja i teoria muzyki,61,34,27,0,218,209,0
+konserwacja i restauracja dzieł sztuki,12,7,5,0,40,44,0
+kulturoznawstwo,121,71,50,0,358,489,0
+leśnictwo,44,8,36,0,64,244,0
+literaturoznawstwo,514,324,186,4,1788,1803,7
+matematyka,162,48,114,0,85,1040,9
+mechanika,123,24,98,1,60,801,0
+medycyna,1030,425,601,4,2239,4971,0
+metalurgia,42,12,30,0,37,257,0
+mikrobiologia,16,14,2,0,70,42,0
+nauki farmaceutyczne,193,134,59,0,688,663,0
+nauki o Ziemi i środowisku,4,3,1,0,10,18,0
+nauki o administracji,5,3,2,0,9,26,0
+nauki o bezpieczeństwie,100,19,81,0,65,635,0
+nauki o kulturze fizycznej,125,54,71,0,250,625,0
+nauki o mediach,57,34,23,0,155,244,0
+nauki o obronności,25,2,23,0,5,170,0
+nauki o polityce,334,134,198,2,558,1780,0
+nauki o poznaniu i komunikacji społecznej,8,3,5,0,4,52,0
+nauki o sztuce,39,27,12,0,119,154,0
+nauki o zdrowiu,183,121,62,0,555,726,0
+oceanologia,25,14,11,0,65,110,0
+ochrona i kształtowanie środowiska,101,51,49,1,172,535,0
+ochrona środowiska,6,4,2,0,18,24,0
+ogrodnictwo,64,43,21,0,265,183,0
+pedagogika,277,186,91,0,1052,887,0
+prawo,588,240,347,1,1130,2986,0
+prawo kanoniczne,15,1,14,0,7,98,0
+psychologia,130,77,53,0,428,482,0
+religioznawstwo,5,2,3,0,11,24,0
+reżyseria dźwięku,9,5,4,0,17,46,0
+rybactwo,15,9,6,0,51,54,0
+rytmika i taniec,7,4,3,0,38,11,0
+socjologia,194,103,90,1,597,761,0
+stomatologia,57,39,18,0,234,165,0
+sztuki filmowe,23,9,14,0,29,132,0
+sztuki piękne,289,128,161,0,378,1645,0
+sztuki projektowe,92,46,46,0,234,410,0
+sztuki teatralne,27,6,21,0,77,112,0
+technologia chemiczna,145,70,72,3,297,718,0
+technologia żywności i żywienia,174,123,51,0,696,522,0
+telekomunikacja,43,1,41,1,9,291,1
+teologia,122,17,105,0,33,821,0
+towaroznawstwo,43,31,12,0,130,171,0
+transport,80,22,58,0,72,488,0
+weterynaria,123,65,58,0,183,678,0
+wokalistyka,48,26,22,0,150,186,0
+włókiennictwo,30,17,13,0,52,158,0
+zarządzanie,422,215,207,0,1020,1934,0
+zootechnika,94,51,43,0,251,406,1
