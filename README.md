@@ -20,8 +20,8 @@ Repozytorium składa się z następujących katalogów:
 Tabele zapisano w formacie CSV, czyli w plikach, które można odczytywać zarówno jako zwykły tekst, jak i jako arkusze kalkulacyjne w programach typu LibreOffice czy Excel.
 
 -  Kodowanie znaków: UTF-8
--  Separator części ułamkowej: przecinek
--  Separator kolumn: tabulator
+-  Separator części ułamkowej: kropka
+-  Separator kolumn: przecinek
 
 ## Pozostałe pliki
 Pozostałe pliki to pliki tekstowe lub pobrane z Internetu pliki typu PDF lub HTML
