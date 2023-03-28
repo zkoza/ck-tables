@@ -14,7 +14,7 @@ Please quote this paper if you are going to use the data from this repository.
 The repository consists of the following directories:
 
 
-- `ck-dane-historyczne` ("historical data on the CK")"
+- `ck-dane-historyczne` ("historical data on the CK")
 
 
   - `skład`: The composition of the CK from 2011 to 2020 (three consecutive terms of office)
